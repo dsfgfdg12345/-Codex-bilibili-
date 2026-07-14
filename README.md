@@ -1,4 +1,4 @@
-# -Codex-bilibili-
+# 小白也能学会的Codex实战课#已开启，快来学习新知识吧
 - [大型资源站xingkeit.top](http://xingkeit.top/)
 
 
